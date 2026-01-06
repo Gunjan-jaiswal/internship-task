@@ -1,2 +1,3 @@
-# internship-task
-My internship task repository
+# Internship Task
+Personal portfolio repository
+

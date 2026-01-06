@@ -11,3 +11,9 @@ commmit 3 - Technologies Used
 -Git 
 -GitHub
 -Markdown
+
+commit 4 -How to use project
+## How to use
+1.Clone the repository
+2.Open the README.md file
+3.Read the project details
